@@ -1,4 +1,11 @@
 
+# Prerequisites
+
+1. Using the Google Chrome browser
+2. Having installed "Fusion Tables (experimental)" from google (you can do this in google drive by clicking "New" -> "More" -> "Connect more apps" and then searching for "fusion" and adding it)
+
+
+# Setting up a Fusion map using data from a Google sheet
 
 ![](_img/Selection_002.png)
 
@@ -59,6 +66,10 @@ These determine where the focus of the map is. Is automatically set when clickin
 #### ```z``` (zoom level)
 Is automatically set when clicking on "tools" -> "publish" using the zoom level of the map in the background
 
+
+# Result
+
+After adding the iframe html code to the website, it will look something like this:
 
 ![](_img/Selection_030.png)
 
